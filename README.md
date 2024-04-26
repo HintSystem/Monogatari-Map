@@ -19,7 +19,8 @@ The files in [References](References) and [Source](Source) are completely option
 ### Naoetsu Town
 ![Naoetsu town map](Monogatari-Map.svg)
 <br>
-*[source](https://mangandenchi.com/bakemonogatari-naoetu/)*
+*[source<sup>1</sup>](https://twitter.com/BKMNGTR_IxI/status/1293382477038280704),
+[source<sup>2</sup>](https://mangandenchi.com/bakemonogatari-naoetu/), illustrator: Oh! great*
 
 ### Namishiro Park
 <img width=800 height=490 style="max-width: 100%"
